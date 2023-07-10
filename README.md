@@ -1,5 +1,11 @@
 ### Hi there 👋
+I'm Roel.
 
+You may know me as pointlessduffin-21 or yeems214.
+
+## Skills
+
+## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pointlessduffin-2%60&theme=transparent)](https://git.io/streak-stats)
 
 <!--
