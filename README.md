@@ -1,6 +1,8 @@
-### 👋 Hi there
+## 👋 Hi there
 Welcome to my GitHub Page!
+
 I am Roel.
+
 You may know me as pointlessduffin-21 or yeems214.
 
 Make yourself at home!
