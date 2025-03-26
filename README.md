@@ -10,18 +10,19 @@ Make yourself at home! 🏡
 
 ## 🛠️ Skills & Tech Stack  
 ### 💻 Programming Languages:
-- ☕ **Java**  
-- 🐚 **Shell Scripting** (Bash & Zsh)  
-- 🏴‍☠️ **Windows Batch Scripting**  
-- 🔵 **C**  
+- ☕ **Java**
 - 🐍 **Python**
 - 🌐 **JavaScript**  
+- 🐚 **Shell Scripting** (Bash & Zsh)  
+- 🏴‍☠️ **Windows Batch Scripting**  
+- 🔵 **C#**  
 
 ### 🔧 Tools & Technologies:
 - 🐙 **Git & GitHub**  
 - 🖥️ **Linux & Windows Server Administration**  
 - ☁️ **Cloud & DevOps**  
-- 🛜 **Networking & System Administration**  
+- 🛜 **Networking & System Administration**
+- 🤖 **Artificial Intelligence**
 
 ---
 
