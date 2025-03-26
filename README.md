@@ -1,43 +1,53 @@
-## 👋 Hi there
-Welcome to my GitHub Page!
+## 👋 Hey there, welcome to my GitHub!
+I'm **Roel**—you might know me as **pointlessduffin-21** or **yeems214**.  
 
-I am Roel.
+🚀 Passionate about **Software Engineering, Full Stack Development, System Administration, and DevOps**, with some **AI** on the side.  
+I love diving into **low-level programming, backend development, automation, and scripting**.  
 
-You may know me as pointlessduffin-21 or yeems214.
+Make yourself at home! 🏡  
 
-Make yourself at home!
+---
 
-## 📝 Skills
-- ☕ Java
-- 🐚 Shell
-- Windows Batch Scripting
-- C
-- A bit of Python
-- JavaScript
-- Git
-and more...
+## 🛠️ Skills & Tech Stack  
+### 💻 Programming Languages:
+- ☕ **Java**  
+- 🐚 **Shell Scripting** (Bash & Zsh)  
+- 🏴‍☠️ **Windows Batch Scripting**  
+- 🔵 **C**  
+- 🐍 **Python**
+- 🌐 **JavaScript**  
 
-## 🌐 Website
-<a href="https://yeems214.xyz" target="_blank">https://yeems214.xyz</a>
+### 🔧 Tools & Technologies:
+- 🐙 **Git & GitHub**  
+- 🖥️ **Linux & Windows Server Administration**  
+- ☁️ **Cloud & DevOps**  
+- 🛜 **Networking & System Administration**  
 
-## 📞 Contacts
-- Discord = yeems214
-- Facebook = <a href="https://www.facebook.com/yeems214/" target="_blank">Roel Abarca</a> 
-- Twitter (X) = <a href="https://twitter.com/pointlessduffin" target="_blank">@pointlessduffin</a>
-- LinkedIn =  <a href="https://www.linkedin.com/in/francis-roel-abarca-a0900b24b/" target="_blank">Francis Roel Abarca</a>
-- YouTube = <a href="https://www.youtube.com/channel/UCIz9554XRRbpslEMelkcdRQ" target="_blank">Cheese Escudero Productions</a>
+---
 
-<!--
-**pointlessduffin-21/pointlessduffin-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌎 Connect with Me  
+📍 **Website:** [yeems214.xyz](https://yeems214.xyz)  
 
-Here are some ideas to get you started:
+💬 **Contacts:**  
+- 🟣 **Discord:** `yeems214`  
+- 🔵 **Facebook:** [Roel Abarca](https://www.facebook.com/yeems214/)  
+- 🐦 **Twitter (X):** [@pointlessduffin](https://twitter.com/pointlessduffin)  
+- 🔗 **LinkedIn:** [Francis Roel Abarca](https://www.linkedin.com/in/francis-roel-abarca-a0900b24b/)  
+- 📹 **YouTube:** [Cheese Escudero Productions](https://www.youtube.com/channel/UCIz9554XRRbpslEMelkcdRQ)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 **Currently Exploring:**  
+🔹 Advanced **backend architectures**  
+🔹 **System Administration** & automation  
+🔹 **Cloud & DevOps** tools  
+🔹 Optimizing **high-performance systems**  
+
+---
+
+### ⚡ Fun Fact  
+I break things just to fix them better. 🛠️🔥  
+
+---
+
+💡 Want to chat? Hit me up on Discord or LinkedIn! 🚀  
