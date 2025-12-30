@@ -118,10 +118,3 @@ I'm **Roel** (aka **yeems214** or **pointlessduffin-21**). I love diving into **
   </a>
 
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pointlessduffin-21&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pointlessduffin-21&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</div>
