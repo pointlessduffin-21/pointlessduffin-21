@@ -6,13 +6,6 @@
   <p>
     <i>Passionate about Software Engineering, Full Stack Development, System Administration, and DevOps, with some AI on the side.</i>
   </p>
-
-  <p>
-    <a href="#about">About Me</a> •
-    <a href="#skills">Skills</a> •
-    <a href="#projects">Projects</a> •
-    <a href="#connect">Connect</a>
-  </p>
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
 
