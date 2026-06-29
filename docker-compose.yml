@@ -1,0 +1,25 @@
+services:
+  backend:
+    build: ./backend
+    container_name: cubesms-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - cubesms_data:/app/data
+    environment:
+      - DATABASE_URL=sqlite:///./data/cubesms.db
+      - SECRET_KEY=cubesms-prod-secret-change-this-2026
+      - DEBUG=false
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: cubesms-frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  cubesms_data:
