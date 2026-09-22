@@ -1,120 +1,96 @@
 <div align="center">
-  
-  <h1 style="font-size: 50px; font-weight: bold;">Roel Abarca</h1>
-  <h3 style="font-weight: bold;">Full Stack Developer | Cloud Architect | System Administrator</h3>
-
-  <p>
-    <i>Passionate about Software Engineering, Full Stack Development, System Administration, and DevOps, with some AI on the side.</i>
-  </p>
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
-
+# Roel Abarca
+**AI Engineer · Systems Engineer · Infrastructure & IoT**
+*I build the systems underneath the software — industrial data pipelines, digital twins, edge AI, and the infrastructure that keeps them running.*
+[![Website](https://img.shields.io/badge/yeems214.xyz-Portfolio-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://yeems214.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-roel-abarca-a0900b24b/)
+[![X](https://img.shields.io/badge/X-@pointlessduffin-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/pointlessduffin)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIz9554XRRbpslEMelkcdRQ)
+[![Discord](https://img.shields.io/badge/Discord-yeems214-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/yeems214)
 </div>
-
 ---
-
-## 👨‍💻 About Me
-
-I'm **Roel** (aka **yeems214** or **pointlessduffin-21**). I love diving into **low-level programming, backend development, automation, and scripting**. I break things just to fix them better. 🛠️🔥
-
-- 🔭 I’m currently working on **Advanced backend architectures** and **System Administration**.
-- 🌱 I’m currently learning **Optimizing high-performance systems**.
-- 💬 Ask me about **Java, Python, System Administration, or DevOps**.
-- ⚡ Fun fact: **I break things just to fix them better.**
-
+## About
+I'm Roel (`yeems214`), an AI Engineer at **Cubeworks Technology Consulting & Solutions Inc.** in Cebu City, where I design and ship industrial IoT, computer vision, and digital-twin systems for enterprise clients. I also hold a remote engineering contract with **Kapital DX Sdn Bhd** (Malaysia).
+I think of myself as a systems engineer first. I've been building and breaking machines since I was nine — virtualization, Hackintoshing, OpenCore, hardware reverse engineering — and that habit of understanding the full stack from silicon to service is what I bring to every project.
+**Education:** BS Information Technology (University of Cebu – Banilad) and BS Software Engineering (Lithan Academy, Singapore), completed concurrently, 2026.
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/SysAdmin-7%2B%20Years-blue?style=for-the-badge&logo=linux" alt="SysAdmin Experience">
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Virtualization-10%2B%20Years-purple?style=for-the-badge&logo=proxmox" alt="Virtualization Experience">
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Projects-50%2B-success?style=for-the-badge&logo=github" alt="Projects Completed">
-      </td>
-    </tr>
-  </table>
+![Systems](https://img.shields.io/badge/Systems%20Tinkering-Since%202012-blue?style=flat-square&logo=linux&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Virtualization-10%2B%20Years-purple?style=flat-square&logo=proxmox&logoColor=white)
+![Cubeworks](https://img.shields.io/badge/Cubeworks-AI%20Engineer%2C%202024–present-success?style=flat-square)
 </div>
-
 ---
-
-## 🛠️ Skills & Tech Stack
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### � Software Development
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Bash_Script](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### ⚙️ System Admin & DevOps
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🤖 AI & Data Science
-
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
+## What I Work On
+| Area | Highlights |
+| :--- | :--- |
+| **Industrial IoT & Data Backbones** | IEC 104-to-MQTT converter; MQTT/NATS backbone for a 7-site OPC-UA deployment; ReAct-style IoT agent pipelines |
+| **Computer Vision at the Edge** | YOLO-based intake and weighing system with OCR and forklift detection, deployed on NVIDIA Jetson Orin Nano |
+| **Digital Twins & Real-Time 3D** | Three.js twin viewports with live MQTT binding, custom shaders, and gamepad input; neural rendering PoC (G-buffer-conditioned U-Net, Core ML inference on Apple Silicon) with WebGPU integration in progress |
+| **Agentic & LLM Pipelines** | GitHub Actions + LLM pipeline for automated weekly project reporting; domain-specific grammars (LICML, PBML, QAML, MNML, ACML) extending a composable modelling stack |
+| **Apple Platform** | Project-management app with Siri App Intents integration on the latest iOS/macOS betas, including full UAT sign-off |
+| **Telecom Integration** | Multi-tenant SMS gateway on Yeastar TG200 hardware |
 ---
-
-## 🚀 Featured Projects
-
-| Project                   | Description                                                               | Tech Stack                                                                                                                        |
-| :------------------------ | :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- |
-| **Duffin's Image Drops**  | Mobile extension to ShareX Image Server for easy photo viewing/uploading. | ![React Native](https://img.shields.io/badge/-React_Native-black) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green) |
-| **Diana AI**              | Prompt-tuned AI Chatbot for music enthusiasts, powered by Gemini 1.0 Pro. | ![Python](https://img.shields.io/badge/-Python-blue) ![Gemini](https://img.shields.io/badge/-Gemini-purple)                       |
-| **Duffin's Music Player** | .WAV music player with time-synced lyrics and a library system.           | ![Java](https://img.shields.io/badge/-Java-orange) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-green)                          |
-| **ShareX Image Server**   | Fast, easy-to-use image drop server for efficient screenshot sharing.     | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green) ![MySQL](https://img.shields.io/badge/-MySQL-blue)                |
-| **yeems214.xyz**          | Personal self-hosted server setup for various web apps and services.      | ![Docker](https://img.shields.io/badge/-Docker-blue) ![Nginx](https://img.shields.io/badge/-Nginx-green)                          |
-
-<p align="right"><a href="#top">Back to Top ⬆️</a></p>
-
+## Tech Stack
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core%20ML-000000?style=flat-square&logo=apple&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+**IoT & Messaging**
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
+![OPC UA](https://img.shields.io/badge/OPC%20UA-1B365D?style=flat-square)
+![IEC 104](https://img.shields.io/badge/IEC%2060870--5--104-1B365D?style=flat-square)
+![SNMP](https://img.shields.io/badge/SNMP-1B365D?style=flat-square)
+**3D & Graphics**
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
+![V-Ray](https://img.shields.io/badge/V--Ray-2E2E2E?style=flat-square)
+**Backend & Web**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Infrastructure & DevOps**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![ZFS](https://img.shields.io/badge/ZFS-2D5E8C?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ---
-
-## 🌎 Connect with Me
-
+## Personal Projects
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Neural Twin Rendering** | DLSS-style G-buffer completion: a compact deterministic U-Net trained on Blender Eevee→Cycles pairs, running via Core ML on Apple Silicon. Phase 2 targets per-twin models with WebGPU inference in the browser. | PyTorch · Core ML · Blender · Three.js |
+| **Homelab (Proxmox + Tailscale)** | Self-hosted Proxmox VE node with ZFS storage, LXC/VM workloads, a thin-client quorum/monitoring device running Uptime Kuma, UPS-backed and reachable over a Tailscale mesh. | Proxmox · ZFS · Tailscale · Debian |
+| **Scroll-Driven Three.js Visualizations** | Series of interactive 3D narrative pieces — datacenter walkthrough, warp-drive explainer, environmental dioramas — plus a digital-twin demo rig with Gerstner wave shaders, gamepad control, and MQTT binding. | Three.js · GLSL · MQTT |
+| **yeems214.xyz** | Self-hosted platform for personal web apps and services. | Docker · Nginx |
+**Earlier work:** ShareX Image Server (Spring Boot / MySQL) and its React Native companion *Duffin's Image Drops*; *Diana AI*, a Gemini-powered chatbot for music enthusiasts; *Duffin's Music Player*, a Java WAV player with time-synced lyrics.
+---
 <div align="center">
-
-  <a href="https://yeems214.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Website-yeems214.xyz-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://discordapp.com/users/yeems214" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-yeems214-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.linkedin.com/in/francis-roel-abarca-a0900b24b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/pointlessduffin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.youtube.com/channel/UCIz9554XRRbpslEMelkcdRQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-
+*Open to conversations about industrial IoT, edge AI, digital twins, and self-hosted infrastructure.*
 </div>
