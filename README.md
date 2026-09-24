@@ -18,7 +18,7 @@
 
 ## About
 
-I'm Roel (`yeems214`), an AI Engineer at **Cubeworks Technology Consulting & Solutions Inc.** in Cebu City, where I design and ship industrial IoT, computer vision, and digital-twin systems for enterprise clients. I also hold a remote engineering contract with **Kapital DX Sdn Bhd** (Malaysia).
+I'm Roel (`yeems214`), an AI Engineer at **Cubeworks Technology Consulting & Solutions Inc.** in Cebu City, where I design and ship industrial IoT, computer vision, and digital-twin systems for enterprise clients.
 
 I think of myself as a systems engineer first. I've been building and breaking machines since I was nine — virtualization, Hackintoshing, OpenCore, hardware reverse engineering — and that habit of understanding the full stack from silicon to service is what I bring to every project.
 
