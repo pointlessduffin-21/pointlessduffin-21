@@ -34,19 +34,6 @@ I think of myself as a systems engineer first. I've been building and breaking m
 
 ---
 
-## What I Work On
-
-| Area | Highlights |
-| :--- | :--- |
-| **Industrial IoT & Data Backbones** | IEC 104-to-MQTT converter; MQTT/NATS backbone for a 7-site OPC-UA deployment; ReAct-style IoT agent pipelines |
-| **Computer Vision at the Edge** | YOLO-based intake and weighing system with OCR and forklift detection, deployed on NVIDIA Jetson Orin Nano |
-| **Digital Twins & Real-Time 3D** | Three.js twin viewports with live MQTT binding, custom shaders, and gamepad input; neural rendering PoC (G-buffer-conditioned U-Net, Core ML inference on Apple Silicon) with WebGPU integration in progress |
-| **Agentic & LLM Pipelines** | GitHub Actions + LLM pipeline for automated weekly project reporting; domain-specific grammars (LICML, PBML, QAML, MNML, ACML) extending a composable modelling stack |
-| **Apple Platform** | Project-management app with Siri App Intents integration on the latest iOS/macOS betas, including full UAT sign-off |
-| **Telecom Integration** | Multi-tenant SMS gateway on Yeastar TG200 hardware |
-
----
-
 ## Tech Stack
 
 **Languages**
