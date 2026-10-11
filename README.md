@@ -2,9 +2,9 @@
 
 # Roel Abarca
 
-**AI Engineer · Systems Engineer · Infrastructure & IoT**
+**AI Engineer · Systems & Infrastructure Engineer · Legacy Computing Enthusiast**
 
-*I build the systems underneath the software — industrial data pipelines, digital twins, edge AI, and the infrastructure that keeps them running.*
+*From firmware, bootloaders, and old machines to full-stack platforms, edge AI, and digital twins — I like understanding every layer of the system.*
 
 [![Website](https://img.shields.io/badge/yeems214.xyz-Portfolio-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://yeems214.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-roel-abarca-a0900b24b/)
@@ -20,7 +20,9 @@
 
 I'm Roel (`yeems214`), an AI Engineer at **Cubeworks Technology Consulting & Solutions Inc.** in Cebu City, where I design and ship industrial IoT, computer vision, and digital-twin systems for enterprise clients.
 
-I think of myself as a systems engineer first. I've been building and breaking machines since I was nine — virtualization, Hackintoshing, OpenCore, hardware reverse engineering — and that habit of understanding the full stack from silicon to service is what I bring to every project.
+I think of myself as a systems engineer first. I've been building, breaking, and reviving machines since I was nine — experimenting with operating systems, virtualization, Hackintoshes, OpenCore, hardware compatibility, and the odd quirks of older computers. That curiosity about the whole stack, from hardware and firmware to services and interfaces, carries into my engineering work.
+
+Outside work, I spend a lot of time seeing how far a machine can be pushed: installing Linux on Intel Macs, making macOS run on unsupported PCs, tuning power and graphics behavior, and building tools to manage the machines themselves. I don't think a computer becomes uninteresting just because it's old.
 
 **Education:** BS Information Technology (University of Cebu – Banilad) and BS Software Engineering (Lithan Academy, Singapore), completed concurrently, 2026.
 
@@ -29,6 +31,8 @@ I think of myself as a systems engineer first. I've been building and breaking m
 ![Systems](https://img.shields.io/badge/Systems%20Tinkering-Since%202012-blue?style=flat-square&logo=linux&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/Virtualization-10%2B%20Years-purple?style=flat-square&logo=proxmox&logoColor=white)
 ![Cubeworks](https://img.shields.io/badge/Cubeworks-AI%20Engineer%2C%202024–present-success?style=flat-square)
+![OpenCore](https://img.shields.io/badge/OpenCore-EFI%20Experimentation-555555?style=flat-square)
+![Retro Computing](https://img.shields.io/badge/Legacy%20Computing-Hardware%20%26%20OS-4B6584?style=flat-square)
 
 </div>
 
@@ -45,6 +49,7 @@ I think of myself as a systems engineer first. I've been building and breaking m
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -93,9 +98,45 @@ I think of myself as a systems engineer first. I've been building and breaking m
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+**Operating Systems, Firmware & Hardware**
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![OpenCore](https://img.shields.io/badge/OpenCore-434343?style=flat-square)
+![UEFI](https://img.shields.io/badge/UEFI%20%2F%20EFI-323B49?style=flat-square)
+![PipeWire](https://img.shields.io/badge/PipeWire-333333?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0B835B?style=flat-square)
+
 ---
 
-## Personal Projects
+## Legacy Computing & Machine Tinkering
+
+I enjoy experimenting with aging hardware, unsupported operating-system combinations, and the layers most people never need to touch: **EFI/UEFI boot chains, device drivers, power management, graphics, audio, thermals, and virtualization**. A lot of that work is about understanding why a machine behaves the way it does — and then finding a practical way around its limitations.
+
+| Repository | What I'm exploring |
+| :--- | :--- |
+| **[Dell Latitude 5300 2-in-1 OpenCore EFI](https://github.com/pointlessduffin-21/Dell-Latitude-5300-2-in-1-OC-EFI)** | Hackintosh/OpenCore experimentation on an Intel business convertible, including boot and hardware-compatibility work. |
+| **[T2 Ubuntu for A1990](https://github.com/pointlessduffin-21/T2-Ubuntu-for-A1990)** | Adaptations around the community's T2 Linux work for a 2018 MacBook Pro, with power-management experiments such as pseudo-sleep and discrete-GPU switching. |
+| **[Intel Mac Linux Audio](https://github.com/pointlessduffin-21/intel-mac-linux-audio)** | PipeWire and EasyEffects speaker profiles; per-speaker EQ and multi-channel routing for the 2018 Intel MacBook Pro. |
+| **[mac-lpm-automation](https://github.com/pointlessduffin-21/mac-lpm-automation)** | Automates display scaling and macOS accessibility effects when Low Power Mode changes, aimed at keeping T2-era MacBooks usable and efficient. |
+| **[MetalHUD](https://github.com/pointlessduffin-21/MetalHUD)** | Swift utility for Apple's Metal performance overlay, including per-app settings, FPS/frametime display, and a background agent. |
+| **[Orchard](https://github.com/pointlessduffin-21/orchard)** | Experimental macOS web management plane for VMs and containers across Parallels, UTM, VMware Fusion, VirtualBox, Docker, and Apple Containerization. |
+
+The software side is only half of it. I also enjoy diagnosing physical hardware issues, swapping and repurposing components, reviving older laptops and servers, and testing different generations of Windows, Linux, and Mac OS X/macOS — both on real machines and inside VMs.
+
+---
+
+## Personal & Experimental Projects
+
+### EcoRoute — From smart-bin firmware to collection workflows
+
+**[EcoRoute](https://github.com/pointlessduffin-21/ecoroute)** is a full-stack smart-waste-management capstone built around the idea that collection schedules should respond to actual bin conditions instead of fixed routes. It's my clearest example of designing a system **end to end**, rather than stopping at an app or API.
+
+The architecture connects ESP32 smart-bin nodes and their sensors to ingestion, persistent telemetry, a multi-tenant backend, a web dashboard, and collection/dispatch workflows. Its companion **[routeOS](https://github.com/pointlessduffin-21/routeOS)** firmware project covers ultrasonic/ToF and lid sensing, battery telemetry, Wi-Fi and BLE provisioning, a captive portal, persistent configuration, device diagnostics, and MQTT reporting. The platform also scopes predictive fill-level modeling and optimized collection routing; the repository tracks those AI/optimization pieces as unfinished work rather than completed production features.
+
+**Stack:** ESP32 · C/C++ · FreeRTOS · BLE · MQTT · TypeScript · Bun/Hono · React · PostgreSQL/PostGIS · Docker
+
+### Other Builds
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -104,12 +145,12 @@ I think of myself as a systems engineer first. I've been building and breaking m
 | **Scroll-Driven Three.js Visualizations** | Series of interactive 3D narrative pieces — datacenter walkthrough, warp-drive explainer, environmental dioramas — plus a digital-twin demo rig with Gerstner wave shaders, gamepad control, and MQTT binding. | Three.js · GLSL · MQTT |
 | **yeems214.xyz** | Self-hosted platform for personal web apps and services. | Docker · Nginx |
 
-**Earlier work:** ShareX Image Server (Spring Boot / MySQL) and its React Native companion *Duffin's Image Drops*; *Diana AI*, a Gemini-powered chatbot for music enthusiasts; *Duffin's Music Player*, a Java WAV player with time-synced lyrics.
+**Earlier work:** [ShareX Image Server](https://github.com/pointlessduffin-21/sharex-upload-server) (Spring Boot / MySQL) and its React Native companion *Duffin's Image Drops*; *Diana AI*, a Gemini-powered chatbot for music enthusiasts; [*Duffin's Music Player*](https://github.com/pointlessduffin-21/DuffinMusicPlayer-Java), a Java WAV player with time-synced lyrics.
 
 ---
 
 <div align="center">
 
-*Open to conversations about industrial IoT, edge AI, digital twins, and self-hosted infrastructure.*
+*Always interested in industrial IoT, edge AI, digital twins, self-hosting, weird OS compatibility problems, and giving old hardware another life.*
 
 </div>
